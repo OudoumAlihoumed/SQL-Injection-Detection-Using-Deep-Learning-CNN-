@@ -9,4 +9,4 @@ Key Skills:
 Deep Learning (CNN)
 Text Preprocessing and Feature Extraction
 Model Evaluation (Accuracy, Precision, Recall)
-SQL Injection Detection
+SQL Injection Detection.
