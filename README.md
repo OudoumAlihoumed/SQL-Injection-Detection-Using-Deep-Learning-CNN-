@@ -1,4 +1,4 @@
-# SQL-Injection-Detection-Using-Deep-Learning-CNN-
+# SQL-Injection-Detection-Using-Deep-Learning-CNN
 
 Project Overview:
 
@@ -9,4 +9,4 @@ Key Skills:
 Deep Learning (CNN)
 Text Preprocessing and Feature Extraction
 Model Evaluation (Accuracy, Precision, Recall)
-SQL Injection Detection.
+SQL Injection Detection. 
